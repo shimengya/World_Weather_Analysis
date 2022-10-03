@@ -1,0 +1,5 @@
+weather_api_key="bbbd82451f2080f4a20d735e624ec7fd"
+
+New_york_times_key="x0X5XKDn0SDdNlcW3vXEoLEjCLsvvCbn"
+
+g_key = "AIzaSyBMrJodUkOVoSHObsVdfr0GS9q2_j_m7As"

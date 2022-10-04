@@ -3,6 +3,7 @@
 ## This project is using Google API to help better plan a trip in UK! 
 
 - You define what temperature you prefer!
+  - I would like to choose between 70 to 80.
 - The Google will provide city list during the temperate arrange.
   ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
 - Check out which country you would like to take a trip!

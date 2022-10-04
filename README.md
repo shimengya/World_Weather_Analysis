@@ -1,6 +1,7 @@
 # Plan your trip
 
-##This project is using Google API to help better plan a trip in UK! 
+## This project is using Google API to help better plan a trip in UK! 
+
 - You define what temperature you prefer!
 - The Google will provide city list during the temperate arrange.
   ![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
